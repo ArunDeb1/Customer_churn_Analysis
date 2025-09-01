@@ -1,4 +1,3 @@
-# Customer_churn_Analysis
 
 # Customer_churn_Analysis
 
@@ -52,10 +51,6 @@ Each table is linked via `customer_ID`.
 - Scenario Simulation: Retention impact of bundles
 - KPI Cards: Churn %, Avg Tenure, High Risk %
 
-📁 Files:  
-- `Customer_Churn_Data_Cleaned.xlsx`  
-- `KPI_Summary_Pivots.xlsx`
-
 ## 🛢️ SQL Deliverables
 
 - Churn by contract, tenure, payment
@@ -64,12 +59,7 @@ Each table is linked via `customer_ID`.
 - LTV gap between churned and retained
 - Demographic impact on churn
 
-📁 Files:  
-- `churn_analysis_queries.sql`  
-- `views_for_powerbi.sql`
-
 ✅ What’s Working
-
 📈 Long-term contracts retain customers effectively
 🛡️ Value-added services (Tech support, Online security) reduce churn
 💳 Auto-pay & Credit card payments improve retention
@@ -107,6 +97,6 @@ Each table is linked via `customer_ID`.
 ## 📌 Next Steps / Future Scope
 
 POWER BI VISUALIZATION
-PYTHON Build a machine learning model to predict churn
+PYTHON - Build a machine learning model to predict churn
 Customer segmentation with RFM analysis
 Integration with retention campaign simulations
